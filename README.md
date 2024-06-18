@@ -1,1 +1,1 @@
-# GoogleMeet_Clone
+# MeetUp: Where Teams Meet, Ideas Flow
